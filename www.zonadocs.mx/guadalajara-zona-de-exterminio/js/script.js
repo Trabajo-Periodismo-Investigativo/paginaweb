@@ -59,7 +59,7 @@ $(function() {
             count1.start();
             count2.start();
           }
-          if(it == 6) {
+          if(it == 5) {
             count3.start();
             count4.start();
             count5.start();
