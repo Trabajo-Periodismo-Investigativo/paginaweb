@@ -18,16 +18,15 @@ $(function() {
   var count5 = new CountUp('nmr05', 2, {});
   var count6 = new CountUp('nmr06', 7, {});
   var count7 = new CountUp('nmr07', 767137, {});
-  var count8 = new CountUp('nmr08', 25, {});
-  var count9 = new CountUp('nmr09', 232, {});
+  var count8 = new CountUp('nmr08', 232, {});
+  var count9 = new CountUp('nmr09', 30000, {});
   var count10 = new CountUp('nmr10', 319, {});
-  var count11 = new CountUp('nmr11', 30000, {});
-  var count12 = new CountUp('nmr12', 78, {});
-  var count13 = new CountUp('nmr13', 321, {});
-  var count14 = new CountUp('nmr14', 12, {});
-  var count15 = new CountUp('nmr15', 17, {});
-  var count16 = new CountUp('nmr16', 24, {});
-   var count17 = new CountUp('nmr17', 56, {});
+  var count11 = new CountUp('nmr11', 78, {});
+  var count12 = new CountUp('nmr12', 321, {});
+  var count13 = new CountUp('nmr13', 12, {});
+  var count14 = new CountUp('nmr14', 17, {});
+  var count15 = new CountUp('nmr15', 24, {});
+  var count16 = new CountUp('nmr16', 56, {});
 
   // Full screen galleries
   $(".fs-gallery").each(function(is, ns) {
@@ -74,7 +73,6 @@ $(function() {
             count14.start();
             count15.start();
                count16.start();
-               count17.start();
           }
           if(it == 7) {
             setTimeout(function() {
