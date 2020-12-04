@@ -11,21 +11,23 @@ $(function() {
 
   var controller = new ScrollMagic.Controller();
 
-  var count1 = new CountUp('nmr01', 2, {});
-  var count2 = new CountUp('nmr02', 4, {});
+  var count1 = new CountUp('nmr01', 1, {});
+  var count2 = new CountUp('nmr02', 15, {});
   var count3 = new CountUp('nmr03', 2, {});
-  var count4 = new CountUp('nmr04', 7, {});
-  var count5 = new CountUp('nmr05', 767137, {});
-  var count6 = new CountUp('nmr06', 25, {});
-  var count7 = new CountUp('nmr07', 232, {});
-  var count8 = new CountUp('nmr08', 319, {});
-  var count9 = new CountUp('nmr09', 30.000, {});
-  var count10 = new CountUp('nmr10', 78, {});
-  var count11 = new CountUp('nmr11', 321, {});
-  var count12 = new CountUp('nmr12', 12, {});
-  var count13 = new CountUp('nmr13', 17, {});
-  var count14 = new CountUp('nmr14', 24, {});
-   var count15 = new CountUp('nmr15', 56, {});
+  var count4 = new CountUp('nmr04', 4, {});
+  var count5 = new CountUp('nmr05', 2, {});
+  var count6 = new CountUp('nmr06', 7, {});
+  var count7 = new CountUp('nmr07', 767137, {});
+  var count8 = new CountUp('nmr08', 25, {});
+  var count9 = new CountUp('nmr09', 232, {});
+  var count10 = new CountUp('nmr10', 319, {});
+  var count11 = new CountUp('nmr11', 30.000, {});
+  var count12 = new CountUp('nmr12', 78, {});
+  var count13 = new CountUp('nmr13', 321, {});
+  var count14 = new CountUp('nmr14', 12, {});
+  var count15 = new CountUp('nmr15', 17, {});
+  var count16 = new CountUp('nmr16', 24, {});
+   var count17 = new CountUp('nmr17', 56, {});
 
   // Full screen galleries
   $(".fs-gallery").each(function(is, ns) {
@@ -69,6 +71,8 @@ $(function() {
                 count13.start();
             count14.start();
             count15.start();
+               count16.start();
+               count17.start();
           }
           if(it == 6) {
             setTimeout(function() {
