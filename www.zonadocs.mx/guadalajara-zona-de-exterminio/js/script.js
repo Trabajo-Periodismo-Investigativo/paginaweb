@@ -58,8 +58,7 @@ $(function() {
           if(it == 1) {
             count1.start();
             count2.start();
-          }
-			if(it == 6) {
+          }if(it == 7) {
             count3.start();
             count4.start();
             count5.start();
@@ -76,7 +75,7 @@ $(function() {
                count16.start();
                count17.start();
           }
-          if(it == 7) {
+          if(it == 8) {
             setTimeout(function() {
               $("p.outro:last-child").animate({
                 opacity: 1
