@@ -220,6 +220,19 @@ p.p-subtitle {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#67b86d', endColorstr='#0067b86d',GradientType=1 );
 }
 
+.cover-intro .frame .f-back .f-overlaytres {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+   background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 33%, rgba(255,255,255,0) 66%, rgba(255,255,255,0) 100%);
+  background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 33%, rgba(255,255,255,0) 66%, rgba(255,255,255,0) 100%);
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 33%,rgba(255,255,255,0) 66%,rgba(255,255,255,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#00fff',GradientType=1 );
+}
+
+
 .cover-intro .frame .f-back .f-overlaydos {
   position: absolute;
   top: 0;
