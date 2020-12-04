@@ -188,8 +188,11 @@ p.p-subtitle {
   opacity: 1;
 }
 .cover-intro .frame .f-back {
-  width: 100%;
-  height: 100%;
+	position: absolute;
+    top: 0;
+    left: -585px;
+    height: 100%;
+    width: 199%;
   position: absolute;
 }
 .cover-intro .frame .f-back video {
