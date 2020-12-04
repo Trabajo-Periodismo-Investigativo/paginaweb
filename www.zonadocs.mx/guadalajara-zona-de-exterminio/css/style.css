@@ -217,9 +217,9 @@ p.p-subtitle {
     left: -585px;
     height: 100%;
     width: 238%;
-     background: -moz-linear-gradient(left, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 55%,rgba(91,160,97,0) 100%);
-    background: -webkit-linear-gradient(left, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 55%,rgba(91,160,97,0) 100%);
-    background: linear-gradient(to right, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 55%,rgba(91,160,97,0) 100%);
+     background: -moz-linear-gradient(left, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 44%,rgba(91,160,97,0) 55%)
+    background: -webkit-linear-gradient(left, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 44%,rgba(91,160,97,0) 55%)
+    background: linear-gradient(to right, rgba(91,160,97,1) 0%,rgba(91,160,97,1) 34%,rgba(91,160,97,0.40) 44%,rgba(91,160,97,0) 55%)
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5ba061', endColorstr='#00407444',GradientType=1 );
 }
 
