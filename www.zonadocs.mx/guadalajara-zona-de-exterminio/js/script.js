@@ -55,7 +55,7 @@ $(function() {
         .triggerHook(0)
         .setTween($(photos[i]), {opacity: 1})
         .on("end", function(e) {
-          if(it == 5) {
+          if(it == 2) {
             count1.start();
             count2.start();
             count3.start();
