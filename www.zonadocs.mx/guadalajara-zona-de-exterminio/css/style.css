@@ -187,10 +187,7 @@ p.p-subtitle {
   left: 0;
   height: 100%;
   width: 100%;
-  background: -moz-linear-gradient(left, rgba(27,172,181,1) 0%, rgba(27,172,181,1) 33%, rgba(27,172,181,0) 66%, rgba(27,172,181,0) 100%);
-  background: -webkit-linear-gradient(left, rgba(27,172,181,1) 0%, rgba(27,172,181,1) 33%, rgba(27,172,181,0) 66%, rgba(27,172,181,0) 100%);
-  background: linear-gradient(to right, rgba(27,172,181,1) 0%,rgba(27,172,181,1) 33%,rgba(27,172,181,0) 66%,rgba(27,172,181,0) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1bacb5', endColorstr='#001bacb5',GradientType=1 );
+  background: #fff;
 }
 .cover-intro .progress-bar {
   position: absolute;
