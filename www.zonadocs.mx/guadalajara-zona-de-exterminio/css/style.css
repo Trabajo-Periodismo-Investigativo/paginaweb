@@ -34,8 +34,47 @@
     font-display: swap;
 }
 
+
+
+@font-face {
+    font-family: 'Arifika';
+    src: url('../fonts/Futura-Heavy-font.woff2') format('woff2'),
+        url('../fonts/Futura-Heavy-font.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+       font-family: 'Artifika';
+    src: url('../fonts/Futura-Heavy-font.woff2') format('woff2'),
+        url('../fonts/Futura-Heavy-font.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+        font-family: 'Artifika';
+    src: url('../fonts/FArtifika-Regular.woff2') format('woff2'),
+        url('../fonts/Artifika-Regular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+      font-family: 'Artifika';
+    src: url('../fonts/Artifika-Regular.woff2') format('woff2'),
+        url('../fonts/Artifika-Regular.woff2') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Artifika', sans-serif;
   font-weight: 400;
   font-size: 17px;
   line-height: 1.5em;
@@ -99,7 +138,7 @@ p:not(:last-child) {
 }
 p.p-subtitle {
   text-align: center;
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-size: 36px;
   font-style: italic;
@@ -276,14 +315,14 @@ p.p-subtitle {
   color: #fff;
 }
 .main-subtitle {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-size: 44px;
   line-height: 0.95em;
   color: #000;
 }
 .main-share {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-size: 18px;
   line-height: 1em;
@@ -358,21 +397,21 @@ p.p-subtitle {
 
 }
 .for-numeralia .n-title {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-size: 18px;
   line-height: 1em;
   color: #000;
 }
 .for-numeralia .n-number {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-size: 48px;
   line-height: 1em;
   color: #D10303;
 }
 .for-numeralia .descrip {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 300;
   font-size: 20px;
   line-height: 1em;
@@ -527,7 +566,7 @@ p.p-subtitle {
   line-height: 1.4em;
 }
 .credits .cre-title {
-  font-family: 'Uni Sans';
+  font-family: 'Futura';
   font-weight: 900;
   font-style: italic;
   font-size: 24px;
@@ -614,8 +653,8 @@ footer p{font-size: 14px;line-height: 1.5em;text-align: center;}
   display: block;
 }
 
-.Title{font:100 48px/52px 'Uni Sans', sans-serif;color: #D10303;text-align: center;}
-.Entradilla{font-family: 'Fira Sans', sans-serif;font-weight: 500;font-size: 17px;line-height: 1.5em;color:#000;text-align: center;margin:10px 0 40px;}
+.Title{font:100 48px/52px 'Futura', sans-serif;color: #D10303;text-align: center;}
+.Entradilla{font-family: 'Artifika', sans-serif;font-weight: 500;font-size: 17px;line-height: 1.5em;color:#000;text-align: center;margin:10px 0 40px;}
 .Nota{color:#666;font-size: 14px;}
 table#Discrepancias .red{color: #ff3131;font-weight: 500;}
 table#Discrepancias span{display: block;position: absolute;z-index: -1;background: #ff3131;height: 25px;}
@@ -749,5 +788,5 @@ table#Discrepancias tr th{line-height: 1.3rem;}
   table#Discrepancias tr td{font-size:14px;}
   table#Discrepancias tr th:nth-child(1), table#Discrepancias tr th:nth-child(2){display: none;}
   table#Discrepancias tr td:nth-child(1), table#Discrepancias tr td:nth-child(2){display: none;}
-  .Title {font: 100 36px/40px 'Uni Sans', sans-serif;}
+  .Title {font: 100 36px/40px 'Futura', sans-serif;}
 }
