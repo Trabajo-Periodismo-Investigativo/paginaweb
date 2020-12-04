@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.connectas.org	TRUE	/	FALSE	1999999999	__cfduid	d3d52af3e0a08af1c27615415f9918a121606791050
+www.connectas.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	dc39a096e524c751dd99d5bd16923a8811606791052
+kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

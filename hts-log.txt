@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Nov 2020 21:50:48 at https://www.zonadocs.mx/guadalajara-zona-de-exterminio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.zonadocs.mx/guadalajara-zona-de-exterminio/ -O1 "C:\Users\Aedean Llano\Desktop\Temporales\lol\xxx" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:51:23	Warning: 	File not parsed, looks like binary: https://www.zonadocs.mx/guadalajara-zona-de-exterminio/fonts/UniSansThinItalicCAPS.woff2
+21:51:23	Warning: 	File not parsed, looks like binary: https://www.zonadocs.mx/guadalajara-zona-de-exterminio/fonts/UniSansHeavyCAPS.woff2
+21:51:23	Warning: 	File not parsed, looks like binary: https://www.zonadocs.mx/guadalajara-zona-de-exterminio/fonts/UniSansThinCAPS.woff2
+21:51:23	Warning: 	File not parsed, looks like binary: https://www.zonadocs.mx/guadalajara-zona-de-exterminio/fonts/UniSansHeavyItalicCAPS.woff2
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 84 links scanned, 83 files written (60638506 bytes overall) [60334287 bytes received at 1723836 bytes/sec], 471686 bytes transferred using HTTP compression in 12 files, ratio 27%, 4.2 requests per connection
+(No errors, 4 warnings, 0 messages)
