@@ -57,6 +57,18 @@ $(function() {
             count1.start();
             count2.start();
             count3.start();
+            count4.start();
+            count5.start();
+            count6.start();
+            count7.start();
+            count8.start();
+            count9.start();
+            count10.start();
+            count11.start();
+            count12.start();
+                count13.start();
+            count14.start();
+            count15.start();
           }
           if(it == 6) {
             setTimeout(function() {
