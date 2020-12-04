@@ -58,6 +58,8 @@ $(function() {
           if(it == 1) {
             count1.start();
             count2.start();
+          }
+			if(it == 5) {
             count3.start();
             count4.start();
             count5.start();
