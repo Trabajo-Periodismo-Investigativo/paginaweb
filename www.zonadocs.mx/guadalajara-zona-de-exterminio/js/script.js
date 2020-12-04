@@ -21,7 +21,7 @@ $(function() {
   var count8 = new CountUp('nmr08', 25, {});
   var count9 = new CountUp('nmr09', 232, {});
   var count10 = new CountUp('nmr10', 319, {});
-  var count11 = new CountUp('nmr11', 30.000, {});
+  var count11 = new CountUp('nmr11', 30000, {});
   var count12 = new CountUp('nmr12', 78, {});
   var count13 = new CountUp('nmr13', 321, {});
   var count14 = new CountUp('nmr14', 12, {});
@@ -59,7 +59,7 @@ $(function() {
             count1.start();
             count2.start();
           }
-			if(it == 5) {
+			if(it == 6) {
             count3.start();
             count4.start();
             count5.start();
@@ -76,7 +76,7 @@ $(function() {
                count16.start();
                count17.start();
           }
-          if(it == 6) {
+          if(it == 7) {
             setTimeout(function() {
               $("p.outro:last-child").animate({
                 opacity: 1
