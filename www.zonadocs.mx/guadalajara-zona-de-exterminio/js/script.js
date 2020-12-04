@@ -11,8 +11,8 @@ $(function() {
 
   var controller = new ScrollMagic.Controller();
 
-  var count1 = new CountUp('nmr01', 1, {});
-  var count2 = new CountUp('nmr02', 15, {});
+  var count1 = new CountUp('nmr01', 15, {});
+  var count2 = new CountUp('nmr02', 1, {});
   var count3 = new CountUp('nmr03', 2, {});
   var count4 = new CountUp('nmr04', 4, {});
   var count5 = new CountUp('nmr05', 2, {});
