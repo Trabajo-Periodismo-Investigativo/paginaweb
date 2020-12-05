@@ -86,11 +86,6 @@ $(function() {
             count15.start();
                count16.start();
           }  if(it == 8) {
-                count12.start();
-                count13.start();
-            count14.start();
-            count15.start();
-               count16.start();
             setTimeout(function() {
               $("p.outro:last-child").animate({
                 opacity: 1
