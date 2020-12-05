@@ -58,6 +58,10 @@ $(function() {
             count1.start();
             count2.start();
           }
+             if(it == 4) {
+           $(".impideinteraccion").css("pointer-events", "all");
+          }
+          
           if(it == 5) {
             count3.start();
             count4.start();
