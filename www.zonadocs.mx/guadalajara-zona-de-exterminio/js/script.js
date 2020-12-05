@@ -77,13 +77,15 @@ $(function() {
             count9.start();
             count10.start();
             count11.start();
+          }
+           if(it == 7) {
+           
             count12.start();
                 count13.start();
             count14.start();
             count15.start();
                count16.start();
-          }
-           if(it == 8) {
+          }  if(it == 8) {
                 count12.start();
                 count13.start();
             count14.start();
