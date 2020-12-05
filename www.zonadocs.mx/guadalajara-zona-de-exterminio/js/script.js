@@ -62,8 +62,12 @@ $(function() {
            $(".impideinteraccion").css("pointer-events", "all");
           }
           
+            if(it == 4) {
+            $(".impideinteraccion").css("pointer-events", "none");
+          }
+          
           if(it == 5) {
-             $(".impideinteraccion").css("pointer-events", "none");
+           
             count3.start();
             count4.start();
             count5.start();
